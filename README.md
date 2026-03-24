@@ -5,8 +5,8 @@ web and mobile applications. Currently working at Watch Brasil
 with microservices and AWS, while pursuing a Master's in Applied
 Computing at UFMT.
 
-🎓 M.Sc. in Applied Computing — UFMT (in progress)
-🏢 Full Stack Developer @ Watch Brasil
+🎓 M.Sc. in Applied Computing — UFMT (in progress)<br>
+🏢 Full Stack Developer @ Watch Brasil<br>
 🌍 Portfolio: jvdantas-dev.vercel.app
 
 ##
@@ -27,8 +27,6 @@ Computing at UFMT.
 
 <br clear="both">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/juaodantas/juaodantas/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/juaodantas/juaodantas/output/pacman-contribution-graph.svg">
+<p align="center">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/juaodantas/juaodantas/output/pacman-contribution-graph.svg">
-</picture>
+</p>

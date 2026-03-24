@@ -1,17 +1,34 @@
-### Olá!! Eu sou o Juao
+## Hi, I'm João 👋
 
-- 🔭 Atualmente trabalhando com Desenvolvimento Full Stack
-- 🌱 Estudando Cloud Computing (AWS, Google Cloud, Firebase)
+Full Stack Engineer with 5+ years of experience building scalable
+web and mobile applications. Currently working at Watch Brasil
+with microservices and AWS, while pursuing a Master's in Applied
+Computing at UFMT.
+
+🎓 M.Sc. in Applied Computing — UFMT (in progress)
+🏢 Full Stack Developer @ Watch Brasil
+🌍 Portfolio: jvdantas-dev.vercel.app
 
 ##
 
-<div style="display: inline_block"  align="center"><br>
-  <img align="center" alt="Juao-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Juao-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Juao-Angular" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angular/angular-original.svg">
-  <img align="center" alt="Juao-NestJS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-original.svg">
-  <img align="center" alt="Juao-NodeJS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
-  <img align="center" alt="Juao-Flutter" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg">
-  <img align="center" alt="Juao-Postgres" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg">
-  <img align="center" alt="Juao-Docker" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg">
-</div>
+<p align="center">
+  <a href="https://linkedin.com/in/juaodantas" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="juaodantas" height="30" width="40" />
+  </a>
+</p>
+
+### 🛠️ Tech Stack
+
+**Frontend & Mobile:** Angular · React.js · Vue · Flutter · TypeScript 
+**Backend:** Node.js · NestJS · GraphQL · Python · Spring Boot  
+**Cloud & DevOps:** AWS (EC2, Lambda, ECS) · Docker · CI/CD · Redis  
+**Data:** PostgreSQL · MySQL · MongoDB · Firebase · Kafka · AWS SQS  
+**Quality:** SonarQube · Jest · Cypress · ESLint  
+
+<br clear="both">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/juaodantas/juaodantas/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/juaodantas/juaodantas/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/juaodantas/juaodantas/output/pacman-contribution-graph.svg">
+</picture>
